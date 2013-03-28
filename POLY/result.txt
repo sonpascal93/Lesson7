@@ -1,0 +1,32 @@
+Program: nghi
+
+Test 1:
+tests\1.in
+tests\1.out
+Program runed in: 62 ms
+OK
+
+Test 2:
+tests\2.in
+tests\2.out
+Program runed in: 125 ms
+OK
+
+Test 3:
+tests\3.in
+tests\3.out
+Program runed in: 1311 ms
+OK
+
+Test 4:
+tests\4.in
+tests\4.out
+Program runed in: 4430 ms
+OK
+
+You passed 4 / 4 testcases
+Slowest testcase: 4430 ms
+Fastest testcase: 62 ms
+Your point is: 100.00 / 100
+
+ACCEPTED
